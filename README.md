@@ -21,6 +21,12 @@
 - 📜 AWS Certified AI Engineer · Neo4j Certified Professional
 - 🌱 Currently exploring agentic tool-use, vector search at scale, and cost-efficient LLM inference
 
+**Impact at a glance**
+
+| 🚀 65% | 📊 120M | 🧵 15K+ | 💾 15TB+ | ⏱️ 99.95% |
+|:---:|:---:|:---:|:---:|:---:|
+| deployment latency cut | tokens/day processed | concurrent requests served | data processed in Spark pipelines | RAG system uptime |
+
 ---
 
 ### Tech Stack
@@ -101,6 +107,13 @@ Full-stack AI weather assistant with agentic tool use for real-time city compari
 - 🚀 Reduced p99 latency **40%** under **15K+ concurrent requests** with FastAPI + Redis
 - 💾 Ran distributed PySpark pipelines over **15TB+** datasets, cutting runtimes **45%**
 - 📈 Reduced MTTR **30%** with a Prometheus + Grafana observability stack
+
+---
+
+### Education
+
+- 🎓 **Indiana University Bloomington** — M.S. Data Science *(Aug 2023 – May 2025)*
+- 🎓 **Sikkim Manipal University** — B.Tech Computer Science *(Aug 2017 – Jun 2021)*
 
 ---
 
