@@ -1,6 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayantika%20Nandi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG%20at%20Scale&descAlignY=62&descSize=18" alt="header banner" />
+<table>
+<tr>
+<td valign="middle">
+
+# Hi, I'm Ayantika Nandi
+
+</td>
+<td valign="middle">
+<img src="assets/puppy.svg" width="90" alt="jumping puppy" />
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/ayantikanandi18">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+multi-agent+%26+RAG+systems+that+scale;120M%2B+tokens%2Fday+%40+99.95%25+uptime;Turning+AI+research+into+production+infra;Always+shipping.+Always+learning." alt="Typing SVG" />
@@ -11,18 +22,16 @@
 ![Phone](https://img.shields.io/badge/Phone-%28930%29--333--4913-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 [![Open to Relocate](https://img.shields.io/badge/Open%20to-Relocate-2ea44f?style=flat-square)](#)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
-
 </div>
 
-> 💡 **I build AI systems that don't just demo well — they hold up at scale.** From architecting multi-agent pipelines on a $20M NSF-funded research program to shipping production RAG and inference services processing 120M+ tokens/day at 99.95% uptime, I turn cutting-edge AI research into infrastructure that survives real traffic, real cost pressure, and real deadlines. I've led teams, mentored 50+ engineers, and consistently cut latency, cost, and incident rates by double digits everywhere I've worked — across GCP, AWS, and everything in between.
+> 💡 **I build AI systems that don't just demo well — they hold up at scale.** From architecting multi-agent pipelines on a $10M NSF-funded AI program to shipping production RAG and inference services processing 120M+ tokens/day at 99.95% uptime, I turn cutting-edge AI research into infrastructure that survives real traffic, real cost pressure, and real deadlines. I've led teams, mentored 50+ engineers, and consistently cut latency, cost, and incident rates by double digits everywhere I've worked — across GCP, AWS, and everything in between.
 
 ---
 
 ### About Me
 
 - 🤖 **AI Engineer @ Handshake AI**, working on cloud-scale ML infrastructure and visualization systems
-- 🎓 Formerly built multi-agent **LangGraph** pipelines & production **RAG** systems at **Indiana University**, part of a $20M NSF-funded AI infrastructure program
+- 🎓 Formerly built multi-agent **LangGraph** pipelines & production **RAG** systems at **Indiana University**, part of a $10M NSF-funded AI program
 - 👩‍🏫 Mentored 50+ graduate students in LLMs, transformers & fine-tuning as a **Graduate AI Instructor**
 - 🏗️ Started out as a **Data Engineer** at Cognizant, building real-time pipelines for General Mills & Bayer
 - 📜 AWS Certified AI Engineer · Neo4j Certified Professional
