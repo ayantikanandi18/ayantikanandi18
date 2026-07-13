@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ayantika Nandi 👋
+# Hi, I'm Ayantika Nandi
 
 ### AI Engineer building agentic systems, RAG pipelines & large-scale data infrastructure
 
