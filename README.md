@@ -106,9 +106,6 @@ Full-stack AI weather assistant with agentic tool use for real-time city compari
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayantikanandi18&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayantikanandi18&layout=compact&hide_border=true)
-
 📫 Reach me at **ayantika.n18@gmail.com**
 
 </div>
