@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hi, I'm Ayantika Nandi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayantika%20Nandi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20RAG%20at%20Scale&descAlignY=62&descSize=18" alt="header banner" />
 
-### AI Engineer building agentic systems, RAG pipelines & large-scale data infrastructure
+<a href="https://github.com/ayantikanandi18">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+multi-agent+%26+RAG+systems+that+scale;120M%2B+tokens%2Fday+%40+99.95%25+uptime;Turning+AI+research+into+production+infra;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayantika--nandi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayantika-nandi)
 [![Email](https://img.shields.io/badge/Email-ayantika.n18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayantika.n18@gmail.com)
 ![Phone](https://img.shields.io/badge/Phone-%28930%29--333--4913-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 [![Open to Relocate](https://img.shields.io/badge/Open%20to-Relocate-2ea44f?style=flat-square)](#)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
 
 </div>
 
@@ -123,5 +127,7 @@ Full-stack AI weather assistant with agentic tool use for real-time city compari
 <div align="center">
 
 📫 Reach me at **ayantika.n18@gmail.com**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer banner" />
 
 </div>
