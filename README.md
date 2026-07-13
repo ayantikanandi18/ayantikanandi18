@@ -11,6 +11,8 @@
 
 </div>
 
+> 💡 **I build AI systems that don't just demo well — they hold up at scale.** From architecting multi-agent pipelines on a $20M NSF-funded research program to shipping production RAG and inference services processing 120M+ tokens/day at 99.95% uptime, I turn cutting-edge AI research into infrastructure that survives real traffic, real cost pressure, and real deadlines. I've led teams, mentored 50+ engineers, and consistently cut latency, cost, and incident rates by double digits everywhere I've worked — across GCP, AWS, and everything in between.
+
 ---
 
 ### About Me
