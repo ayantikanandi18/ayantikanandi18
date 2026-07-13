@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayantika--nandi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayantika-nandi)
 [![Email](https://img.shields.io/badge/Email-ayantika.n18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayantika.n18@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-%28930%29--333--4913-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 [![Open to Relocate](https://img.shields.io/badge/Open%20to-Relocate-2ea44f?style=flat-square)](#)
 
 </div>
