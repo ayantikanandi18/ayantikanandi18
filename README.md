@@ -31,7 +31,7 @@
 ### About Me
 
 - 🤖 **AI Engineer @ Handshake AI**, working on cloud-scale ML infrastructure and visualization systems
-- 🎓 Formerly built multi-agent **LangGraph** pipelines & production **RAG** systems at **Indiana University**, part of a $10M NSF-funded AI program
+- 🎓 Formerly built multi-agent **LangGraph** pipelines & production **RAG** systems at **Indiana University**, part of a $20M NSF-funded AI program
 - 👩‍🏫 Mentored 50+ graduate students in LLMs, transformers & fine-tuning as a **Graduate AI Instructor**
 - 🏗️ Started out as a **Data Engineer** at Cognizant, building real-time pipelines for General Mills & Bayer
 - 📜 AWS Certified AI Engineer · Neo4j Certified Professional
